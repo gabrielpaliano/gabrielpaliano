@@ -6,7 +6,7 @@ My name is Gabriel KaEgso Paliano and i'm trying to be my best version in this t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabriel-kaegso-paliano-5744bb190/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gpaliano/) 
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielpaliano&theme=vision-friendly-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielpaliano&show_icons=true&theme=vision-friendly-dark)
 
 ##### You can also check the technologies I use:
 <div style="display: inline-block">
