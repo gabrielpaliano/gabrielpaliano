@@ -1,7 +1,5 @@
 ## Hi there, welcome to my profile. 👋
-
-My name is Gabriel KaEgso Paliano and i'm trying to be my best version in this tech era. Do you wanna know me better? Right below you can check my social medias. I really love learn and if you can teache me something, please, contact me.
-
+I just trying to be my best version in this tech era. Do you wanna know me better? Right below you can check my social medias. I really love learn and if you can teache me something, please, contact me.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabriel-kaegso-paliano-5744bb190/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gpaliano/) 
